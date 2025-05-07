@@ -56,7 +56,7 @@ const PrivacyPolicy = () => {
                     the Service or from the Service infrastructure itself (for example, the duration of a page visit).
                 </li>
                 <li><strong>Website</strong> refers to Kovalenko Lesia, accessible from <a
-                    href="https://sites.google.com/view/kovalenkolesia" target="_blank" rel="noopener noreferrer">this
+                    href="https://kovalenko-lesia.vercel.app/" target="_blank" rel="noopener noreferrer">this
                     link</a>.
                 </li>
                 <li><strong>You</strong> means the individual accessing or using the Service, or the company, or other
