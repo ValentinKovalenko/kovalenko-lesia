@@ -1,0 +1,14 @@
+.titleBlock {
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    text-align: center;
+}
+.home {
+    padding: 3% 10%;
+}
+
+.emailStyle {
+color: lightblue;
+}

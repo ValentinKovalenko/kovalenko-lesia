@@ -1,0 +1,16 @@
+.privacy-container {
+   margin: 0.5% 10%;
+    padding: 2rem;
+    color: #FFFFFF;
+}
+
+.privacy-container h1,
+.privacy-container h2,
+.privacy-container h3 {
+    color: #FFFFFF;
+}
+
+.privacy-container a {
+    color: lightblue;
+    text-decoration: underline;
+}

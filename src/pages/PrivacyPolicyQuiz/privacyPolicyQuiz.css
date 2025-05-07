@@ -1,0 +1,16 @@
+.privacy-container-quiz {
+    margin: 0.5% 10%;
+    padding: 2rem;
+    color: #FFFFFF;
+}
+
+.privacy-container-quiz h1,
+.privacy-container-quiz h2,
+.privacy-container-quiz h3 {
+    color: #FFFFFF;
+}
+
+.privacy-container-quiz a {
+    color: lightblue;
+    text-decoration: underline;
+}

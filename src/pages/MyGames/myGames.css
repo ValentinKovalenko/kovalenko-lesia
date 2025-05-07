@@ -1,0 +1,34 @@
+.myGames {
+    margin: 0.5% 10%;
+    color: #FFFFFF;
+}
+
+.myGames p {
+    padding: 0;
+    margin: 0;
+}
+
+.myGames h4 {
+    margin-bottom: 0;
+}
+
+.myGames a {
+    color: lightblue;
+    text-decoration: underline;
+}
+
+.myGames img {
+    width: 256px;
+    height: 256px;
+    float: left;
+    margin-right: 50px;
+    border-radius: 30px;
+}
+
+.blockLink {
+    text-align: center;
+}
+
+.textLink {
+    color: lightblue;
+}
