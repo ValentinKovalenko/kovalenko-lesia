@@ -20,3 +20,9 @@
 .text {
     color: lightblue;
 }
+
+@media (max-width: 768px) {
+    .container {
+        gap: 2px;
+    }
+}

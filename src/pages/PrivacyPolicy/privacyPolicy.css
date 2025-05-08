@@ -14,3 +14,9 @@
     color: lightblue;
     text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+    .privacy-container {
+        margin: 0;
+    }
+}
