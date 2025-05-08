@@ -5,7 +5,7 @@ const PrivacyPolicyQuiz = () => {
     return (
         <div className='privacy-container-quiz'>
             <h1>Privacy Policy and Terms of Use</h1>
-            <p><strong>Last updated:</strong> April 28, 2025</p>
+            <p><strong>Last updated:</strong> April 08, 2025</p>
             <p>Thank you for choosing to play our quiz game available on the Aptoide platform. Your privacy and trust
                 are very important to us. This document explains how we handle your data and the terms under which you
                 may use our game.</p>
@@ -13,8 +13,18 @@ const PrivacyPolicyQuiz = () => {
             <h3>1. Information We Collect</h3>
             <p>We may collect and process the following types of information:</p>
             <ul>
-                <li><strong>Unique Device Identifier</strong> (to save your game progress)</li>
-                <li><strong>Selected Language</strong> (to personalize your experience)</li>
+                <li><strong>Unique Device Identifier (deviceId)</strong>: this identifier is used to save your game
+                    progress. It is not personally identifiable and does not allow us to identify you as an individual.
+                    We do not use the deviceId for any other purposes except for improving the gaming experience.
+                </li>
+                <li><strong>Selected Language</strong>: we store information about the language you choose in order to
+                    personalize your gaming experience.
+                </li>
+                <li><strong>Nickname</strong>: You may choose a nickname for your game profile. The nickname may contain
+                    any information you wish to provide. We store this nickname to personalize your gaming experience.
+                    If you provide a nickname that contains personal information, such as your real name or other
+                    identifiable details, you are responsible for the data you provide.
+                </li>
                 <li><strong>Gameplay Data</strong> (such as answers submitted and scores achieved)</li>
             </ul>
             <p>We do <strong>not</strong> collect personal information such as your name, email, or address unless you
