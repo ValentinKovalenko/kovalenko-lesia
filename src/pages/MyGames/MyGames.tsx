@@ -34,8 +34,11 @@ const MyGames = () => {
                 </ul>
                 <p>See how much you know about the world and <strong>climb to the top of the leaderboard!</strong></p>
                 <p>Download to <a
-                    href="https://appgallery.huawei.com/app/C114148997?sharePrepath=ag&locale=uk_UA&source=appshare&subsource=C114148997&shareTo=com.android.bluetooth&shareFrom=appmarket&shareIds=ea4fb85fa5fe4524833b404734e189ec_com.android.bluetooth&callType=SHARE" target="_blank"
+                    href="https://appgallery.huawei.com/app/C114148997" target="_blank"
                     rel="noopener noreferrer">Huawei AppGallery</a> </p>
+                <p>Download to <a
+                    href="https://quiz-hit-the-target.en.aptoide.com/app" target="_blank"
+                    rel="noopener noreferrer">Aptoide</a> </p>
             </div>
             <div className='blockLink'>
                 <Link className='textLink' to="/privacy-policy-quiz">Privacy Policy and Terms of Use</Link>
