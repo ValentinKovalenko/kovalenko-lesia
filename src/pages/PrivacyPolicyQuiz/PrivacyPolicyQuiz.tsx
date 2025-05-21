@@ -5,7 +5,7 @@ const PrivacyPolicyQuiz = () => {
     return (
         <div className='privacy-container-quiz'>
             <h1>Privacy Policy and Terms of Use</h1>
-            <p><strong>Last updated:</strong> April 08, 2025</p>
+            <p><strong>Last updated:</strong> May 21, 2025</p>
             <p>Thank you for choosing to play our quiz game available on the Aptoide platform. Your privacy and trust
                 are very important to us. This document explains how we handle your data and the terms under which you
                 may use our game.</p>
@@ -70,6 +70,10 @@ const PrivacyPolicyQuiz = () => {
             <p>All content within the game, including questions, design, images, and software logic, is the exclusive
                 property of the developers. You may not reuse or redistribute any part without explicit written
                 permission.</p>
+            <p>Some images used in the game are sourced from <a
+                href="https://www.pexels.com/" target="_blank"
+                rel="noopener noreferrer">Pexels.com</a> and are used in accordance with the Pexels
+                License, which allows free commercial use without attribution.</p>
             <h3>3. No Guarantee of Accuracy</h3>
             <p>While we strive for accuracy, the quiz questions are based on widely accepted sources. We cannot
                 guarantee absolute correctness and are not responsible for discrepancies between our content and
